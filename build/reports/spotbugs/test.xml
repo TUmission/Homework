@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.10" sequence="0" timestamp="1548366384739" analysisTimestamp="1548366384895" release="">
+  <Project projectName="">
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/CommandHistoryTest.class</Jar>
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/DefaultFlashcardSeriesTest$1RecordingListDataListener.class</Jar>
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/DefaultFlashcardSeriesTest$1TestListDataListener.class</Jar>
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/DefaultFlashcardSeriesTest.class</Jar>
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/FlashcardSeriesFilterTest$TestListDataListener.class</Jar>
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/FlashcardSeriesFilterTest.class</Jar>
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/learning/LearningStrategiesTest.class</Jar>
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/learning/PermutationTest.class</Jar>
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/learning/RandomForeverLearningStrategyTest.class</Jar>
+    <Jar>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test/de/tud/cs/se/flashcards/model/learning/RandomLearningStrategyTest.class</Jar>
+    <AuxClasspathEntry>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/test</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/classes/java/main</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/horstschmalfuss/Desktop/ex09/flashcards/build/resources/main</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/horstschmalfuss/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/23.0/c947004bb13d18182be60077ade044099e4f26f1/guava-23.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/horstschmalfuss/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/horstschmalfuss/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/horstschmalfuss/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.18/5f65affce1684999e2f4024983835efc3504012e/error_prone_annotations-2.0.18.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/horstschmalfuss/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/horstschmalfuss/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/horstschmalfuss/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar</AuxClasspathEntry>
+    <SrcDir>/Users/horstschmalfuss/Desktop/ex09/flashcards/src/test/java</SrcDir>
+    <SrcDir>/Users/horstschmalfuss/Desktop/ex09/flashcards/src/test/java/de/tud/cs/se/flashcards/model/CommandHistoryTest.java</SrcDir>
+    <SrcDir>/Users/horstschmalfuss/Desktop/ex09/flashcards/src/test/java/de/tud/cs/se/flashcards/model/DefaultFlashcardSeriesTest.java</SrcDir>
+    <SrcDir>/Users/horstschmalfuss/Desktop/ex09/flashcards/src/test/java/de/tud/cs/se/flashcards/model/FlashcardSeriesFilterTest.java</SrcDir>
+    <SrcDir>/Users/horstschmalfuss/Desktop/ex09/flashcards/src/test/java/de/tud/cs/se/flashcards/model/learning/LearningStrategiesTest.java</SrcDir>
+    <SrcDir>/Users/horstschmalfuss/Desktop/ex09/flashcards/src/test/java/de/tud/cs/se/flashcards/model/learning/PermutationTest.java</SrcDir>
+    <SrcDir>/Users/horstschmalfuss/Desktop/ex09/flashcards/src/test/java/de/tud/cs/se/flashcards/model/learning/RandomForeverLearningStrategyTest.java</SrcDir>
+    <SrcDir>/Users/horstschmalfuss/Desktop/ex09/flashcards/src/test/java/de/tud/cs/se/flashcards/model/learning/RandomLearningStrategyTest.java</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Thu, 24 Jan 2019 22:46:24 +0100" total_classes="10" referenced_classes="47" total_bugs="0" total_size="451" num_packages="2" java_version="10.0.1" vm_version="10.0.1+10" cpu_seconds="10.06" clock_seconds="5.50" peak_mbytes="166.53" alloc_mbytes="2048.00" gc_seconds="0.07">
+    <PackageStats package="de.tud.cs.se.flashcards.model" total_bugs="0" total_types="6" total_size="372">
+      <ClassStats class="de.tud.cs.se.flashcards.model.CommandHistoryTest" sourceFile="CommandHistoryTest.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest" sourceFile="DefaultFlashcardSeriesTest.java" interface="false" size="151" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest$1RecordingListDataListener" sourceFile="DefaultFlashcardSeriesTest.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest$1TestListDataListener" sourceFile="DefaultFlashcardSeriesTest.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.FlashcardSeriesFilterTest" sourceFile="FlashcardSeriesFilterTest.java" interface="false" size="145" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.FlashcardSeriesFilterTest$TestListDataListener" sourceFile="FlashcardSeriesFilterTest.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="de.tud.cs.se.flashcards.model.learning" total_bugs="0" total_types="4" total_size="79">
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.LearningStrategiesTest" sourceFile="LearningStrategiesTest.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.PermutationTest" sourceFile="PermutationTest.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.RandomForeverLearningStrategyTest" sourceFile="RandomForeverLearningStrategyTest.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.RandomLearningStrategyTest" sourceFile="RandomLearningStrategyTest.java" interface="false" size="32" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="867" invocations="487" avgMicrosecondsPerInvocation="1782" maxMicrosecondsPerInvocation="48978" standardDeviationMicrosecondsPerInvocation="5124"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="265" invocations="489" avgMicrosecondsPerInvocation="543" maxMicrosecondsPerInvocation="20715" standardDeviationMicrosecondsPerInvocation="1805"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="261" invocations="47" avgMicrosecondsPerInvocation="5565" maxMicrosecondsPerInvocation="64636" standardDeviationMicrosecondsPerInvocation="11810"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="194" invocations="38" avgMicrosecondsPerInvocation="5125" maxMicrosecondsPerInvocation="46644" standardDeviationMicrosecondsPerInvocation="10039"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="143" invocations="114" avgMicrosecondsPerInvocation="1259" maxMicrosecondsPerInvocation="33759" standardDeviationMicrosecondsPerInvocation="4206"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="132" invocations="35" avgMicrosecondsPerInvocation="3799" maxMicrosecondsPerInvocation="22344" standardDeviationMicrosecondsPerInvocation="5703"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="130" invocations="35" avgMicrosecondsPerInvocation="3718" maxMicrosecondsPerInvocation="49996" standardDeviationMicrosecondsPerInvocation="9105"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="119" invocations="450" avgMicrosecondsPerInvocation="265" maxMicrosecondsPerInvocation="33205" standardDeviationMicrosecondsPerInvocation="1698"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="117" invocations="38" avgMicrosecondsPerInvocation="3098" maxMicrosecondsPerInvocation="31135" standardDeviationMicrosecondsPerInvocation="5857"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="113" invocations="35" avgMicrosecondsPerInvocation="3253" maxMicrosecondsPerInvocation="94316" standardDeviationMicrosecondsPerInvocation="15672"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="109" invocations="47" avgMicrosecondsPerInvocation="2327" maxMicrosecondsPerInvocation="18326" standardDeviationMicrosecondsPerInvocation="3933"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="105" invocations="28" avgMicrosecondsPerInvocation="3768" maxMicrosecondsPerInvocation="42822" standardDeviationMicrosecondsPerInvocation="8868"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="94" invocations="35" avgMicrosecondsPerInvocation="2695" maxMicrosecondsPerInvocation="43907" standardDeviationMicrosecondsPerInvocation="7669"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="90" invocations="70" avgMicrosecondsPerInvocation="1299" maxMicrosecondsPerInvocation="33185" standardDeviationMicrosecondsPerInvocation="4780"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="82" invocations="47" avgMicrosecondsPerInvocation="1751" maxMicrosecondsPerInvocation="38900" standardDeviationMicrosecondsPerInvocation="5745"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="69" invocations="35" avgMicrosecondsPerInvocation="1980" maxMicrosecondsPerInvocation="24934" standardDeviationMicrosecondsPerInvocation="4222"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="60" invocations="47" avgMicrosecondsPerInvocation="1282" maxMicrosecondsPerInvocation="17701" standardDeviationMicrosecondsPerInvocation="3651"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.asm.ClassReaderAnalysisEngine" totalMilliseconds="58" invocations="459" avgMicrosecondsPerInvocation="127" maxMicrosecondsPerInvocation="45573" standardDeviationMicrosecondsPerInvocation="2145"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="54" invocations="47" avgMicrosecondsPerInvocation="1152" maxMicrosecondsPerInvocation="20751" standardDeviationMicrosecondsPerInvocation="3840"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
